@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/mydb.dir/main.cpp.o -o mydb  -lstdc++fs 
