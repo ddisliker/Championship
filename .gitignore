@@ -1,0 +1,7 @@
+cd /mnt/e/Discipline
+cat > .gitignore << 'EOF'
+build/
+*.o
+*.d
+*_Zone.Identifier
+EOF

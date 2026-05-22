@@ -1,9 +1,0 @@
-/mnt/e/Discipline/Discipline-master/build/CMakeFiles/mydb.dir
-/mnt/e/Discipline/Discipline-master/build/CMakeFiles/mydb_server.dir
-/mnt/e/Discipline/Discipline-master/build/CMakeFiles/mydb_test.dir
-/mnt/e/Discipline/Discipline-master/build/CMakeFiles/edit_cache.dir
-/mnt/e/Discipline/Discipline-master/build/CMakeFiles/rebuild_cache.dir
-/mnt/e/Discipline/Discipline-master/build/CMakeFiles/list_install_components.dir
-/mnt/e/Discipline/Discipline-master/build/CMakeFiles/install.dir
-/mnt/e/Discipline/Discipline-master/build/CMakeFiles/install/local.dir
-/mnt/e/Discipline/Discipline-master/build/CMakeFiles/install/strip.dir
